@@ -32,3 +32,10 @@ Used `dependencies` :
 - gravatar
 - express-validator
 - config
+
+---
+
+Used `Dev Dependencies `:
+
+- nodemon
+- concurrently
