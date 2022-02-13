@@ -1,6 +1,6 @@
 # Developers Social Network
 
-This application is built using the MERN stack:
+This application is built using the `MERN` stack:
 
 - MongoDB
 - Express
@@ -9,7 +9,7 @@ This application is built using the MERN stack:
 
 ---
 
-Some other key concepts / libraries used on this project are :
+Some other key `concepts` used on this project are :
 
 - JWT (JSON Web Tokens)
 - Async / Await
@@ -19,3 +19,16 @@ Some other key concepts / libraries used on this project are :
 - Mongoose
 - Bcrypt Password Hashing
 - Heroku and git deployment
+
+---
+
+Used `dependencies` :
+
+- jsonwebtoken
+- bcryptjs
+- express
+- request
+- mongoose
+- gravatar
+- express-validator
+- config
